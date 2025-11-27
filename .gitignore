@@ -1,0 +1,25 @@
+# macOS system files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Output folders
+/output/
+*.zip
+
+# Git LFS
+*.csv
+*.h5
+*.model
